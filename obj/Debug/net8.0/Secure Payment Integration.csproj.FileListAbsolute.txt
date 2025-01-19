@@ -1,0 +1,40 @@
+C:\Users\Tejas\source\repos\Secure Payment Integration\Secure Payment Integration\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Tejas\source\repos\Secure Payment Integration\Secure Payment Integration\bin\Debug\net8.0\appsettings.json
+C:\Users\Tejas\source\repos\Secure Payment Integration\Secure Payment Integration\bin\Debug\net8.0\Secure Payment Integration.staticwebassets.runtime.json
+C:\Users\Tejas\source\repos\Secure Payment Integration\Secure Payment Integration\bin\Debug\net8.0\Secure Payment Integration.staticwebassets.endpoints.json
+C:\Users\Tejas\source\repos\Secure Payment Integration\Secure Payment Integration\bin\Debug\net8.0\Secure Payment Integration.exe
+C:\Users\Tejas\source\repos\Secure Payment Integration\Secure Payment Integration\bin\Debug\net8.0\Secure Payment Integration.deps.json
+C:\Users\Tejas\source\repos\Secure Payment Integration\Secure Payment Integration\bin\Debug\net8.0\Secure Payment Integration.runtimeconfig.json
+C:\Users\Tejas\source\repos\Secure Payment Integration\Secure Payment Integration\bin\Debug\net8.0\Secure Payment Integration.dll
+C:\Users\Tejas\source\repos\Secure Payment Integration\Secure Payment Integration\bin\Debug\net8.0\Secure Payment Integration.pdb
+C:\Users\Tejas\source\repos\Secure Payment Integration\Secure Payment Integration\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Tejas\source\repos\Secure Payment Integration\Secure Payment Integration\bin\Debug\net8.0\Stripe.net.dll
+C:\Users\Tejas\source\repos\Secure Payment Integration\Secure Payment Integration\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Tejas\source\repos\Secure Payment Integration\Secure Payment Integration\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tejas\source\repos\Secure Payment Integration\Secure Payment Integration\obj\Debug\net8.0\Secure Payment Integration.csproj.AssemblyReference.cache
+C:\Users\Tejas\source\repos\Secure Payment Integration\Secure Payment Integration\obj\Debug\net8.0\Secure Payment Integration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tejas\source\repos\Secure Payment Integration\Secure Payment Integration\obj\Debug\net8.0\Secure Payment Integration.AssemblyInfoInputs.cache
+C:\Users\Tejas\source\repos\Secure Payment Integration\Secure Payment Integration\obj\Debug\net8.0\Secure Payment Integration.AssemblyInfo.cs
+C:\Users\Tejas\source\repos\Secure Payment Integration\Secure Payment Integration\obj\Debug\net8.0\Secure Payment Integration.csproj.CoreCompileInputs.cache
+C:\Users\Tejas\source\repos\Secure Payment Integration\Secure Payment Integration\obj\Debug\net8.0\Secure Payment Integration.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tejas\source\repos\Secure Payment Integration\Secure Payment Integration\obj\Debug\net8.0\Secure Payment Integration.RazorAssemblyInfo.cache
+C:\Users\Tejas\source\repos\Secure Payment Integration\Secure Payment Integration\obj\Debug\net8.0\Secure Payment Integration.RazorAssemblyInfo.cs
+C:\Users\Tejas\source\repos\Secure Payment Integration\Secure Payment Integration\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Tejas\source\repos\Secure Payment Integration\Secure Payment Integration\obj\Debug\net8.0\scopedcss\bundle\Secure Payment Integration.styles.css
+C:\Users\Tejas\source\repos\Secure Payment Integration\Secure Payment Integration\obj\Debug\net8.0\scopedcss\projectbundle\Secure Payment Integration.bundle.scp.css
+C:\Users\Tejas\source\repos\Secure Payment Integration\Secure Payment Integration\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Tejas\source\repos\Secure Payment Integration\Secure Payment Integration\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Tejas\source\repos\Secure Payment Integration\Secure Payment Integration\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Tejas\source\repos\Secure Payment Integration\Secure Payment Integration\obj\Debug\net8.0\staticwebassets\msbuild.Secure Payment Integration.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Tejas\source\repos\Secure Payment Integration\Secure Payment Integration\obj\Debug\net8.0\staticwebassets\msbuild.Secure Payment Integration.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Tejas\source\repos\Secure Payment Integration\Secure Payment Integration\obj\Debug\net8.0\staticwebassets\msbuild.build.Secure Payment Integration.props
+C:\Users\Tejas\source\repos\Secure Payment Integration\Secure Payment Integration\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Secure Payment Integration.props
+C:\Users\Tejas\source\repos\Secure Payment Integration\Secure Payment Integration\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Secure Payment Integration.props
+C:\Users\Tejas\source\repos\Secure Payment Integration\Secure Payment Integration\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Tejas\source\repos\Secure Payment Integration\Secure Payment Integration\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Tejas\source\repos\Secure Payment Integration\Secure Payment Integration\obj\Debug\net8.0\Secure P.4C86B34C.Up2Date
+C:\Users\Tejas\source\repos\Secure Payment Integration\Secure Payment Integration\obj\Debug\net8.0\Secure Payment Integration.dll
+C:\Users\Tejas\source\repos\Secure Payment Integration\Secure Payment Integration\obj\Debug\net8.0\refint\Secure Payment Integration.dll
+C:\Users\Tejas\source\repos\Secure Payment Integration\Secure Payment Integration\obj\Debug\net8.0\Secure Payment Integration.pdb
+C:\Users\Tejas\source\repos\Secure Payment Integration\Secure Payment Integration\obj\Debug\net8.0\Secure Payment Integration.genruntimeconfig.cache
+C:\Users\Tejas\source\repos\Secure Payment Integration\Secure Payment Integration\obj\Debug\net8.0\ref\Secure Payment Integration.dll

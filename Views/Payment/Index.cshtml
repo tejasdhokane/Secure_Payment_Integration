@@ -1,0 +1,20 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewBag.Title = "Payment Page";
+}
+
+<h2>Make a Payment</h2>
+
+<form action="/Payment/ProcessPayment" method="post">
+    <script src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+            data-key="your_publishable_key"
+            data-amount="5000"
+            data-name="Secure Payment Integration"
+            data-description="Sample Charge"
+            data-currency="usd">
+    </script>
+</form>
+
+<p>@ViewBag.Message</p>
