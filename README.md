@@ -22,7 +22,7 @@ DISCRIPTION: A payment gateway allows businesses to securely accept online payme
 
 OUTPUT : 
 
-     ![Image](https://github.com/user-attachments/assets/680aa57b-c5ff-4356-84f5-05fa273a6f1d)
+![Image](https://github.com/user-attachments/assets/680aa57b-c5ff-4356-84f5-05fa273a6f1d)
  
 
 
